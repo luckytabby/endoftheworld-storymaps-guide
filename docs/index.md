@@ -12,7 +12,7 @@ Each StoryMap must include the following components:
 - One map, data visualization, or timeline
 - Reference section and appropriate citations for at least three different types of sources
 
-You can check out my [sample project](https://luckytabby.github.io/endoftheworld-storymaps-guide/) for a very basic example.
+You can check out my [sample project](https://arcg.is/01L4qu) for a very basic example.
 
 ## Resources
 
