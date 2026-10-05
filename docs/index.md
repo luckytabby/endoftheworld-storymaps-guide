@@ -1,4 +1,3 @@
-{% include_relative header.md %}
 # StoryMaps for the Apocalypse
 
 ## Project Description<a id="desc"/>
@@ -14,7 +13,7 @@ Each StoryMap must include the following components:
 
 
 ### Bucknell Resources
-* Writing Center
+* [Writing Center]()
 
 ### External Resources
 * 
