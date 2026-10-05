@@ -9,14 +9,16 @@ Each StoryMap must include the following components:
 - One map, data visualization, or timeline
 - Reference section and appropriate citations for at least three different types of sources
 
+You can check out my [sample project](https://luckytabby.github.io/endoftheworld-storymaps-guide/) for a very basic example.
+
 ## Resources
 
 
 ### Bucknell Resources
-* [Sample project](https://luckytabby.github.io/endoftheworld-storymaps-guide/)
 * [Bucknell StoryMaps login](https://cas.bucknell.edu/cas/login?locale=en&service=https%3A%2F%2Fshib.bucknell.edu%2Fidp%2FAuthn%2FExternal%3Fconversation%3De1s1&entityId=Bucknell.maps.arcgis.com)
 * [Digital Pedagogy & Scholarship]()
 * [The Writing Center](https://www.bucknell.edu/academics/current-students/academic-support/writing-center)
+* [Research Services](https://researchbysubject.bucknell.edu/appointments)
 * [Contact Maggie]()
 
 ### External Resources
