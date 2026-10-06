@@ -19,6 +19,7 @@ You can check out my [sample project](https://arcg.is/01L4qu) for a very basic e
 ### StoryMaps
 * [Bucknell StoryMaps login](https://cas.bucknell.edu/cas/login?locale=en&service=https%3A%2F%2Fshib.bucknell.edu%2Fidp%2FAuthn%2FExternal%3Fconversation%3De1s1&entityId=Bucknell.maps.arcgis.com)
 * [Contact Maggie]()
+* [Contact another member of DP&S staff](https://dps.scholar.bucknell.edu/)
 
 ### Research, Writing, & Citations
 * [Library tutorials](https://researchbysubject.bucknell.edu/tutorials/resources)
