@@ -1,7 +1,7 @@
 # StoryMaps for the Apocalypse
 
 ## Welcome
-This page is here to help with the StoryMaps for the Apocalypse assignment for the End of the World as We Know It Foundations Seminar. Read on for project details and requirements, a link to a sample StoryMap, and a collection of resources to help with research, writing, and technology.
+This page is here to help with the StoryMaps for the Apocalypse assignment for the End of the World as We Know It Foundation Seminar. Read on for project details and requirements, a link to a sample StoryMap, and a collection of resources to help with research, writing, and technology.
 
 ## Project Description
 Students will create an ArcGIS StoryMap focused on one potential apocalypse scenario. StoryMaps should include, at minimum, a brief introduction to the scenario (What exactly is a super volcano eruption?), a discussion of how the scenario has appeared in media like science fiction stories or film, and a discussion of at least one real-world source related to the scenario (If you think cats could take over the world, what indicates that they are capable of that?).
