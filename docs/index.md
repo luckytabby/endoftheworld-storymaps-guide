@@ -18,6 +18,9 @@ You can check out my [sample project](https://arcg.is/01L4qu) for a very basic e
 
 ### StoryMaps
 * [Bucknell StoryMaps login](https://cas.bucknell.edu/cas/login?locale=en&service=https%3A%2F%2Fshib.bucknell.edu%2Fidp%2FAuthn%2FExternal%3Fconversation%3De1s1&entityId=Bucknell.maps.arcgis.com)
+* [StoryMaps documentation](https://doc.esri.com/en/arcgis-storymaps/latest/index.html)
+* [StoryMaps video guide](https://www.youtube.com/watch?v=KkLZ2IiLdkU)
+* [Bucknell GIS instruction videos](https://mediaspace.bucknell.edu/channel/Bucknell+GIS+Instructional+Videos/156525421)
 * [Contact Maggie]()
 * [Contact another member of DP&S staff](https://dps.scholar.bucknell.edu/)
 
